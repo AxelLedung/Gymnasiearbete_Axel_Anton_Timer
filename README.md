@@ -1,5 +1,5 @@
 # Gymnasiearbete_Axel_Anton_Timer
-A really poorly made game that was made in school.
+A really poorly made game that I made in school.
 
 I was doing the coding and my classmate was doing animation.
 
